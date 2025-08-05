@@ -9,7 +9,10 @@
     "audioUrlUa": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_01_the_bell_tower_ua.m4a",
     "nameEn": "The Bell Tower",
     "descriptionEn": "In the last quarter of the XVIIlth century the high-rise dominant of the Trinity Monastery Ensemble was a 58-meter bell tower, which radically changed the appearance of the complex. The building was erected in the late Baroque style with elements of Rococo and even Classicism. It is probable that the bell tower was erected on drawings of Johann-Gottfried Schedel, who built the Great Lavra bell tower.",
-    "audioUrlEn": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_01_the_bell_tower_en.m4a"
+    "audioUrlEn": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_01_the_bell_tower_en.m4a",
+    "imageSizeBytes": 583662,
+    "audioUaSizeBytes": 471187,
+    "audioEnSizeBytes": 463452
   },
   {
     "id": 2,
@@ -21,7 +24,10 @@
     "audioUrlUa": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_02_chernihiv_printing_house_ua.m4a",
     "nameEn": "Chernihiv printing house",
     "descriptionEn": "The first printed book \"Perlo Mnohotsinne\" was published by Trankvilion Stavrovetskyi in Chernihiv in 1646. However, the beginning of full-fledged book printing began only with the arrival of Lazar Baranovych, who transfered to Chernihiv a stationary printing house from Novhorod-Siverskyi. It happened in 1679.\nThe printing house was located on the territory of the Trinity-Elijah Monastery, on a hill opposite to the Elijah's Church. Its remains were found by archaeologists during research. In particular, they were able to determine where the presses and boilers were, what size the room was.\nDuring the first twenty years of its existence, the printing house managed to publish 46 publications.\nThe peculiarity of the printing house was that in addition to liturgical books, secular genres of books were also published. The first books were printed on imported paper, but later the printers themselves mastered its production, which made the process cheaper.\nAt the beginning of the XVIII century, Chernihiv printing house was the largest in the Ukrainian lands after Kyiv and Lviv. However, in 1720 the Senate issued an order stating that only church books could be printed in the printing house. From this time began its gradual decline.\nAnother impact on the printing house was carried out with the closure of the Trinity-Elijah Monastery. The last book in the Chernihiv printing house was published in 1818, and in 1846 all the equipment was sold out.",
-    "audioUrlEn": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_02_chernihiv_printing_house_en.m4a"
+    "audioUrlEn": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_02_chernihiv_printing_house_en.m4a",
+    "imageSizeBytes": 287190,
+    "audioUaSizeBytes": 1745882,
+    "audioEnSizeBytes": 1608354
   },
   {
     "id": 3,
@@ -33,7 +39,10 @@
     "audioUrlUa": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_03_chernihiv_vvedenska_church_ua.m4a",
     "nameEn": "Vvedenska church",
     "descriptionEn": "Vvedenska church is a masterpiece of the architectural style, which was built as a refectory with out pillars. In fact, there is one of the oldest monuments dating back to the 17th century. Vvedenska Church consists of a dining room, the auxiliary rooms for food preparation and the church. The dining room, the hall are arranged in one line, which is why the structure is a one-stored building but on the scheme it look like it is a rectangle 37.5 m long, 10 m in the narrowest part, and it`s width is 17.5 m.\nThe peculiarity is that there are 2 baths in the church not one as in most cases. The quadruple shaped dome turns into an octal, which in its turn goes to a conical narrowing dome. In the construction of the interior space techniques which come from wooden architecture, were used. Sometime after the church was built, Hetman Ivan Mazepa presented it an iconostasis decorated with his coat of arms. It was a four-tiered Baroque iconostasis, the central part of which was starting from the second tier. The icons on it were arranged along curved lines that were rising slightly to the center of an iconostasis. Unfortunately, the iconostasis was destroyed by the Communists in the 1930s.\nThe iconostasis that is now in Vvedenska church was made in 1988-89 before the opening of the theological school in 1989. As well as Vvedenska church was belonged to the theological school its students had their lessons and exams here. Still at the same time it is a refectory church.",
-    "audioUrlEn": null
+    "audioUrlEn": null,
+    "imageSizeBytes": 3283189,
+    "audioUaSizeBytes": 1310904,
+    "audioEnSizeBytes": null
   },
   {
     "id": 4,
@@ -45,7 +54,10 @@
     "audioUrlUa": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_04_chernihiv_shcherbyns_chapel_ua.m4a",
     "nameEn": "Shcherbyn`s chapel",
     "descriptionEn": "The chapel was built on the territory of the Trinity Monastery over the grave of diplomat Hryhorii Stepanovych Shcherbyn, a native of Chernihiv. In diplomatic mission in Mirovica (Serbia), he was assassinated in 1903. A yellow brick chapel was built on the grave. The entrance to the chapel is formed by a two-column portico with a semicircular opening. On the sides of the entrance are columns of polished black granite with stylized column cap. The chapel was destroyed in the 1930s and once more in 1950s, but was rebuilt in 1968.",
-    "audioUrlEn": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_04_chernihiv_shcherbyns_chapel_en.m4a"
+    "audioUrlEn": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_04_chernihiv_shcherbyns_chapel_en.m4a",
+    "imageSizeBytes": 109321,
+    "audioUaSizeBytes": 774708,
+    "audioEnSizeBytes": 697705
   },
   {
     "id": 5,
@@ -57,7 +69,10 @@
     "audioUrlUa": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_05_chernihiv_a_brief_history_of_the_trinity_elijah_monastery_ua.m4a",
     "nameEn": "A brief history of the Trinity-Elijah Monastery",
     "descriptionEn": "The history of Elijah's monastery begins in the second half of the Xlth century, when in 1069 Anthony Pecherskyi moved to Chernihiv and founded an underground monastery in the Boldyn Hills. At the end of the XI or in the first half of the XII century Elijah's church was built next to the cave complex. The complex was developing by the middle of the XIII century. After the Mongol invasion the church started to decline for a long time period of time.\nThe revival of the monastery began only in the middle of the XVIIth century with the formation of the Cossack state. Thus, the first prominent patron of the monastery was a Chernihiv sotnyk (lieutenant of the Cossack troops), the future colonel S. Podobailo. Zosym Tyshkevych became the first known abbot. Restoration on the monastery began with the church of St. Elijah. However, in the late 1660s the question that arose was about a significant expansion of the monastery. In 1667, according to the Truce of Andrusovo, Kyiv was to be ceded to the Polish-Lithuanian Commonwealth in a few years, so the Orthodox clergy envisioned the prospect that most of Kyiv's Orthodox temples would pass into the hands of Polish Catholics. L. Baranovych personally lobbied the construction of a large monastery in Chernihiv to transfer relics there in case the Poles could reach them.\nIn 1672, the construction of the first cells on the hill above the Illinskyi (Elijah`s) complex began, in 1677 the construction of the Vvedenska (Presentation) refectory church, and in 1679 - the Trinity Cathedral.\nDuring the XVIIth - XIXth centuries the ensemble of the complex consisted of the \"lower\" old monastery and the \"upper\" new monastery. First of all this became possible due to the fact that the monastery was as large landowners, who owning at least 10 thousand bond slaves, 24 villages, 30 mills, 31 factories, including bricks one. In the late XVIIth and early XVIIIth centuries the \"upper\" and \"lower\" monasteries were united by a covered gallery leaming on brick pillars.\nThe monastery became a table tomb for many famous people of that time and entire families, such as Myloradovych, Kochubei and others.\nThe monastery operated until 1786, when as a result of secularization it lost its land holdings.\nThe monastery operated until 1786, when as a result of secularization it lost its land holdings. According to the plans, the Chernihiv University could locate on the territory of the monastery, but it did not happen, and from 1790 the monastery became the residence of the Chernihiv bishops.\nDuring the first years under the soviet government, the monastery was closed, although Trinity Cathedral functioned as a parish until 1929. Before the Second World War a zootechnical college was located here. As a monastery, the Trinity Complex resumed its work in November 1941 and operated as a nunnery until 1961. During the 1970s and 1980s, significant restoration work was carried out on the territory of the complex. Since the 1990s the residences of the bishop of the Ukrainian Orthodox Church of Moscow Patriarchate and the regent's church school have been located on the territory of the monastery.\n(Примітка: в англійській версії двічі повторюється абзац \"The monastery operated until 1786...\")",
-    "audioUrlEn": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_05_chernihiv_a_brief_history_of_the_trinity_elijah_monastery_en.m4a"
+    "audioUrlEn": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_05_chernihiv_a_brief_history_of_the_trinity_elijah_monastery_en.m4a",
+    "imageSizeBytes": 9157453,
+    "audioUaSizeBytes": 3475223,
+    "audioEnSizeBytes": 3387603
   },
   {
     "id": 6,
@@ -69,7 +84,10 @@
     "audioUrlUa": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_06_st_lawrence_house_ua.m4a",
     "nameEn": "St. Lawrence House",
     "descriptionEn": "St. Lawrence's House is located at Illinska Street, 38, at the bottom of Boldin Hills. This is a small ordinary residential building of the late XIX - early XX centuries.\nIn the first half of the twentieth century Elder Lawrence lived here. After his death, he was canonized by the Orthodox Church as St. Lawrence of Chernihiv. During his life he became famous for his works and miracles.\nIn 2009 the house restoration and conservation works began. First of all, the brick foundation was restored. The wooden walls were dismantled and replaced with damaged logs, trying to preserve the original building materials. During the construction work, there were things that may have been owned by the reverent. So, under the floor were found handwritten notes, photographs, a calendar of 1935, a chronicle of icons, as well as a church book of 1907, with notes on the margins. Inside the lodge is a stove, which was also restored, as well as a bed in the room that served as a monk cell.\nThe St. Lawrence House Museum is open to visitors every day. On weekdays it can be visited from 10:00 to 14:00, on holidays and weekends - from 9:00 to 17:00.",
-    "audioUrlEn": null
+    "audioUrlEn": null,
+    "imageSizeBytes": 2688803,
+    "audioUaSizeBytes": 1673921,
+    "audioEnSizeBytes": null
   },
   {
     "id": 7,
@@ -81,7 +99,10 @@
     "audioUrlUa": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_07_holy_trinity_cathedral_ua.m4a",
     "nameEn": "Holy Trinity Cathedral",
     "descriptionEn": "The Holy Trinity Cathedral in Chernihiv is a prominent architectural monument of the Hetmanate (1696). It was the main cathedral of the Chernihiv Trinity Monastery. The church was founded in 1679 by Archbishop Lazar Baranovych under the project of architect John Baptist Sauer and under his direction. The temple was built at the expense of Ukrainian hetman Ivan Mazepa.\nThe peculiarity of the architecture of the Trinity Cathedral is the usage of the three-dimensional composition in combination with the elements of the Ukrainian baroque and early classicism. The exterior of the cathedral has some common features of the iconic structures of the West for example churches with obligatory square towers around the corners of the west facade.\nThe cathedral is three-nave, six-pillar, tri-apse with seven baths. The structure is covered with a system of box and cross-vaults. The walls of the Trinity Temple comprise recesses that imitate windows decorated with baroque vertical and horizontal profile lines and semi columns. Niches are filled with paintings. Over the entrance in the second tier of the Trinity Cathedral there is a window in the form of an Orthodox cross which is a special feature of the Chernihiv Baroque temples of the late XVII – early XVIII centuries.\nThe cathedral is decorated with an iconostasis which was made after the Second World War by a local pimen Portne and with a wall painting complex of the 17th - 20th century. The relics of St. Lawrence, the saints Theodosius (Uglitsky) and Filaret (Gumilevsky) are stored in the temple. Under the floor of the cathedral there is a crypt that served as the burial ground for church hierarchs and the nobility of that time.\nThe Trinity Cathedral bell tower was built in 1771–1775. It has five tiers with a height of 58 meters! Each tier is crowned with splendid cornices. On the second tier the church bells are situated. The cells in the southwestern corner of the former Trinity-Elias Monastery were erected in the 1770s. The house of the Archimandrite adjoins them.",
-    "audioUrlEn": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_07_holy_trinity_cathedral_en.m4a"
+    "audioUrlEn": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_07_holy_trinity_cathedral_en.m4a",
+    "imageSizeBytes": 1773587,
+    "audioUaSizeBytes": 2704757,
+    "audioEnSizeBytes": 2370910
   },
   {
     "id": 8,
@@ -93,7 +114,10 @@
     "audioUrlUa": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_08_st_elijah_church_ua.m4a",
     "nameEn": "St. Elijah Church",
     "descriptionEn": "The church was built in the XI century. The peculiarity and uniqueness of the church is that it is the only single-apse temple on the left bank of Ukraine. Fresco paintings on the walls, which included the church with Byzantine flavor. In 1774 the highest four-tier iconostasis was carven and afterward it was covered with gold. Above the Holy Gate the miraculous image of the Illine Mother of God was situated.\nThe church has an ancient cemetery, which hides a very interesting secret. In the necropolis it was found out that in some burials of the monks of the XVII - XVIII centuries new burials of infants were made. In ancient times it was believed that if a child was not baptized, it could not be in Paradise. However, if it was buried on the territory of church, then the souls of the dead righteous become the key to Heaven.\nAccording to the Orthodox traditions, unbaptized children were not allowed to be buried on consecrated ground. Neither Catholics nor Protestants neglected all means to save the dead. That is why Western traditions influenced this burial ground. Nowadays the museum functions on the territory of the church; it is one of the most popular places in Chernihiv.",
-    "audioUrlEn": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_08_st_elijah_church_en.m4a"
+    "audioUrlEn": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_08_st_elijah_church_en.m4a",
+    "imageSizeBytes": 1482731,
+    "audioUaSizeBytes": 1464700,
+    "audioEnSizeBytes": 1369373
   },
   {
     "id": 9,
@@ -105,7 +129,10 @@
     "audioUrlUa": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_09_saint_antony_caves_ua.m4a",
     "nameEn": "Saint Antony Caves",
     "descriptionEn": "Antony Caves is a system of 350 meter underground passages that are located in the Boldin Hills. The caves lie at a depth of 12 meters and are located on four levels. The most interesting is the lower tier. It is remained in an earthen version. At different times, the caves served as a tomb and shelter for ascetic monks. An interesting site of the caves is the remains of an ossuary church, which was destroyed in antiquity and has not been restored. It covers an area of 12 meters, located between the underground churches of St. Nicholas and Theodosius Totemsky. It is known that Theodosius Totemsky Church is the largest in the Left Bank Ukraine. The ceiling height of the temple reaches eight and a half meters. It is known that Theodosius Totemsky Church is the rarest in the Left Bank of Ukraine. The ceiling height of the temple reaches eight and a half meters. The church has choirs located in the northern part. However, the high humidity of the dungeon did not allow to use the wooden iconostasis, so it was replaced by icons made of brick and iron. Near the entrance to the caves the church of Elijah disting from the XI century architecture.\nThe chronicles state it that Reverend Antony Pechersky (a prominent religious figure) had fled from Kyiv at that time he was fascinated by the Boldin Hills and afterwards he established the monk style of life in Chernihiv. Spiritual development of the center was stopped with the events of the Mongol-Tatar invasion in 1239. Large-scale cave reconstruction began only in 1649 at the initiative of Colonel Stepan Podobaylo of Chernihiv, and he became the chief patron of the project. At present, Anthony's caves are part of the Chernihiv Historical and Cultural Reserve.",
-    "audioUrlEn": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_09_saint_antony_caves_en.m4a"
+    "audioUrlEn": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_09_saint_antony_caves_en.m4a",
+    "imageSizeBytes": 6525952,
+    "audioUaSizeBytes": 1665362,
+    "audioEnSizeBytes": 1889765
   },
   {
     "id": 10,
@@ -117,7 +144,10 @@
     "audioUrlUa": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_10_the_grave_of_kotsyubynsky_ua.m4a",
     "nameEn": "The Grave of Kotsyubynsky",
     "descriptionEn": "Nearby from the city center, between the medium-sized green mounds on Boldin Hills the grave of Ukrainian writer Mykhailo Kotsiubynsky is located. The writer moved to Chernihiv in 1898 and lived here for fifteen years. The Boldin Hills was a favorite walking place for Mikhailo Kotsyubynsky.\nAt first, the grave of the great writer had a rather modest, even neglected appearance. Among the thick of shrubs was a simple wooden cross. Later, in 1930, a gray granite monument was erected on the writer's tomb, shaped like a pyramid of four square blocks.\nIn 1954, in honor of the 90th anniversary of Kotsiubynsky, it was decided to replace the monument. In 1955, a new monument was created. It consists of bronze bust of the writer on a rectangular pedestal.\nOne of the sculptors was the grandson of the writer Florian Kotsyubynsky. A granite slab with a fence is laid out around the monument. Next to Mikhailo Kotsyubynsky, his wife Vira is buried.",
-    "audioUrlEn": null
+    "audioUrlEn": null,
+    "imageSizeBytes": 2431672,
+    "audioUaSizeBytes": 1837829,
+    "audioEnSizeBytes": null
   },
   {
     "id": 11,
@@ -129,7 +159,10 @@
     "audioUrlUa": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_11_boldin_hills_ua.m4a",
     "nameEn": "Boldin Hills",
     "descriptionEn": "Probably everyone heard in childhood about the hero Ilya Muromets, who possessed incredible strength and had a kind heart. Some historians suggest that the hero was buried somewhere around the Boldin Hills in Chernihiv. The Boldin Hills is the largest tumulus necropolis of the pre-Christian times: the excavations of the Gulbishche tumulus of 8.5 meters high was excavated by archaeologists. It was during the scrutiny of this burial site that archaeologists found a sword of 126 centimeters of total length. According to weapons specialists, in order to wield such a sword, a warrior must have been physically strong and had a height of at least 215 centimeters. This finding is confirmed by other things: military armor of a large size. These results of archeological researches gave reason to believe that Ilya Muromets was buried in Chernihiv!\nThere are a lot of ancient burials which are preserved on the territory of the Boldin Hills, for example, the grave of a famous writer Mykhaylo Kotsiubynsky. Moreover, we can find the arbor that was built in 1911 to commemorate the visit of Emperor Nicholas II, as well as a memorial toin honor of the soldiers who died during the battles of Chernihiv in the Second World War (1941–1943).",
-    "audioUrlEn": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_11_boldin_hills_en.m4a"
+    "audioUrlEn": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_11_boldin_hills_en.m4a",
+    "imageSizeBytes": 268407,
+    "audioUaSizeBytes": 1559385,
+    "audioEnSizeBytes": 1414962
   },
   {
     "id": 12,
@@ -141,7 +174,10 @@
     "audioUrlUa": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_12_mounds_nameless_and_gulbishce_ua.m4a",
     "nameEn": "Mounds \"Nameless\" and \"Gulbishche\"",
     "descriptionEn": "The mounds \"Nameless\" and \"Gulbishche\" are ancient mounds dating from the 10th century and are located on the Boldin Hills. The mound \"Gulbishche\" is surrounded with an embankment in 8.5 m high and 22 m in diameter which was excavated by an expedition. It was managed by the archaeologist Samokvasov in 1872. At that time only a third part of the mound was excavated. Investigators found out that at the foot of the mound there were three soft stairs. The first significant finding is a Chernihiv-type helmet found at a depth of 8 meters. It was something similar to a metal cap with a copper top and with a copper semi-circular sheet in the front. Other fragments of the iron mass were the remnants of a chain armour stuck together under the influence of fire and subsequent oxidation processes.\nDuring excavations the burials of a man, a woman and a horse were also discovered at the mound. One of the skeletons was probably owned by a retainer. Various objects were also found to accompany the pagan burial rite of cremation (sacrificial vessel with rams' horns, fur, etc. with traces of burning before being laid in the grave). Certain household items, such as: Samanid dirham of the XI century, a chisel and a sharpener, a comb, a knife, a hammer, nails, remnants of wooden buckets and bronze jug were discovered during the expeditions.\nAmong the jewels there were necklaces, glass ingots, gold and silver buttons, massive bronze pendants, a bronze ring and silver belt buckles. The most striking discovery was the great sword which occurred to be the largest of the old Kievan Rus swords that had ever been found. Its total length with the handle is 126 cm. The blade was of 6.5 cm in width and 105 cm in length, the massive handle was decorated with silver notches and three rows of stones. Usually the average size of the sword was 85-90 cm which means that the warrior had to be at least 215 cm in height in order to successfully manage the sword. That is why some researchers suggest that the epic hero Ilya Muromets is buried there.",
-    "audioUrlEn": null
+    "audioUrlEn": null,
+    "imageSizeBytes": 8083752,
+    "audioUaSizeBytes": 2842151,
+    "audioEnSizeBytes": null
   },
   {
     "id": 13,
@@ -153,7 +189,10 @@
     "audioUrlUa": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_13_the_arbor_ua.m4a",
     "nameEn": "The Arbor",
     "descriptionEn": "Boldin Hills is not only a necropolis; it is also a favorite vacation place for guests and residents of Chernihiv. Everyone who walks here can see the arbor that stands at the edge of the hill. It was erected here in 1911 in honor of the Russian Emperor Nicholas II, who arrived to the city. A tea ceremony with amazing views was planned for him here. But it never happened, and the arbor was left to posterity as a romantic place. Apparently that's how visitors are set up, who in our times have called it \"The Arbor of Love\".",
-    "audioUrlEn": null
+    "audioUrlEn": null,
+    "imageSizeBytes": 2402088,
+    "audioUaSizeBytes": 484555,
+    "audioEnSizeBytes": null
   },
   {
     "id": 14,
@@ -165,7 +204,10 @@
     "audioUrlUa": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_14_the_grave_of_the_unknown_soldier_and_the_memorial_of_glory_ua.m4a",
     "nameEn": "The grave of the Unknown Soldier and the Memorial of Glory",
     "descriptionEn": "\nThe remains of an unknown soldier were buried on Boldyni Hills in 1967. In 1985-1987 the complex was reconstructed. A black labradorite slab was laid on the grave, the Eternal Flame was arranged and a 20-meter obelisk made of red granite was installed. A sculptural and bas-relief ensemble of Lokhvynin's and Chernov's works dedicated to the defenders of the Fatherland has been created under the hill. The main compositional dominant of which are four figures: an ancient Russ warrior, a soldier of the Red Army during World War II, a guerilla warrior and a workwoman.",
-    "audioUrlEn": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_14_the_grave_of_the_unknown_soldier_and_the_memorial_of_glory_en.m4a"
+    "audioUrlEn": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_14_the_grave_of_the_unknown_soldier_and_the_memorial_of_glory_en.m4a",
+    "imageSizeBytes": 1245964,
+    "audioUaSizeBytes": 804374,
+    "audioEnSizeBytes": 772910
   },
   {
     "id": 15,
@@ -177,7 +219,10 @@
     "audioUrlUa": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_15_siverianskyi_temple_ua.m4a",
     "nameEn": "Siverianskyi temple",
     "descriptionEn": "According to some researchers, along with Illinskyi (Elijah's) monastery in the XII-XIII centuries there was another monastery - Siverianskyi. However, it is impossible to say unequivocally whether the monastery existed. The only confirmation of its existence is the remains of a brick church of the early XIIIth century discovered by archaeologists on Siverianska Street. The church was located on the right-bank terrace of the Desna River between Veleńskyi and Elijah`s monasteries. The church is a small four-foot church, which in its compositional structure resembled Piatnytska Church. Along with the church, the remains of a small cave complex of the XII-XIII centuries have been explored.",
-    "audioUrlEn": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_15_siverianskyi_temple_en.m4a"
+    "audioUrlEn": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_15_siverianskyi_temple_en.m4a",
+    "imageSizeBytes": 37325,
+    "audioUaSizeBytes": 795478,
+    "audioEnSizeBytes": 768289
   },
   {
     "id": 16,
@@ -189,7 +234,10 @@
     "audioUrlUa": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_16_peter_and_paul_church_ua.m4a",
     "nameEn": "Peter and Paul church",
     "descriptionEn": "Since the second half of the seventeenth century there was a church of Peter and Paul on the territory of Yelets Monastery. However, it has changed location twice. In 1676, at the expense of Count V. Dunin-Borkovsky, opposite to the Assumption Cathedral, the construction of the first refectory church of Saints Peter and Paul began to build. Initially, it was a small church, and during the seventeenth century in the northern direction, several buildings were added to the church, and during this time the structure took the form of a rectangle about 40 m long. There were large basements under the vault. In the nineteenth century Peter and Paul's church was moved to another building and a spiritual consistory was opened in the building of the church. During the Second World War, the structure of the Consistory was badly damaged and then it was almost completely dismantled in the postwar years. Only one room survived, the remains of which can be seen today in the territory of the Yelets Monastery.\nAfter the first church of Peter and Paul was closed in the mid-19th century, its throne was moved to another monastery building - the Bishops' Chambers, which is located in the south part of the Assumption Cathedral. Because of the construction in the eighteenth century the church has been rebuilt and it has acquired the trait of classicism. During the communist times, the church was at first used as a theater and then as a sports club. The church of St. Peter and Paul, unlike the Assumption Cathedral, is a warm church, which is why the services are held mainly during the cold period.",
-    "audioUrlEn": null
+    "audioUrlEn": null,
+    "imageSizeBytes": 65165,
+    "audioUaSizeBytes": 1843494,
+    "audioEnSizeBytes": null
   },
   {
     "id": 17,
@@ -201,7 +249,10 @@
     "audioUrlUa": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_17_chernihiv_state_literary_memorial_museum_of_mikhailo_kotsiubynsky_ua.m4a",
     "nameEn": "Chernigiv State Literary-Memorial Museum of Mikhailo Kotsiubynsky",
     "descriptionEn": "At first glance, the mansion is hidden from the human eye among the high-rises, but if you look closely, you can see a fantastic oasis in the middle of a stone town. It was a cozy office for the classic of Ukrainian literature, the great humanist Mykhailo Kotsiubynsky. The writer bought the mansion in 1898 when he moved from Vinnitsa to Chernihiv. It is still preserved that shape of building that it had in the lifetime of famous writer. Nowadays museum consists of the memorial house of the writer, the literary exposition and the true decoration of this place is the Kotsiubynsky Memorial Garden.\nThis is where the writer lived with his family in the summer of 1898 and spent the last 15 the most creative years of his life. Chernihiv period was the most productive and creative during the civilian life of author. The best works of classics are \"Intermezzo,\" \"Apple Blossom\", \"Heavy Price\", \"Praise of Life\", \"Fata morgana,\" \"Shadows of Forgotten Ancestors\", which brought the author worldwide fame, were written right here in the ancient city of Siversky.",
-    "audioUrlEn": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_17_chernihiv_state_literary_memorial_museum_of_mikhailo_kotsiubynsky_en.m4a"
+    "audioUrlEn": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_17_chernihiv_state_literary_memorial_museum_of_mikhailo_kotsiubynsky_en.m4a",
+    "imageSizeBytes": 398528,
+    "audioUaSizeBytes": 1348434,
+    "audioEnSizeBytes": 1154832
   },
   {
     "id": 18,
@@ -213,7 +264,10 @@
     "audioUrlUa": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_18_the_church_of_kazan_god_mother_icon_ua.m4a",
     "nameEn": "The Church of Kazan God Mother Icon",
     "descriptionEn": "The Church of Kazan God Mother Icon was erected in 1820–1827 to commemorate the victory in the Franco-Russian War (1812). It is a brick, one-sided structure with small rooms adjacent to the central cubic volume on four sides with a bell tower on the western square plan.\nIn the Soviet period, the Church of Kazan God Mother Icon was partially destroyed, especially such rooms as bath (dome) and a bell tower were destroyed. After 1943, the temple building was used as a hall of the Philharmonic where the comedians Shtepsel and Tarapunka acted. Until 1984 a repair office and an assembly plant was located in the building of the church. It was not until the late 1980s that the temple was rebuilt and returned to the religious community in the 1990s.",
-    "audioUrlEn": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_18_the_church_of_kazan_god_mother_icon_en.m4a"
+    "audioUrlEn": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_18_the_church_of_kazan_god_mother_icon_en.m4a",
+    "imageSizeBytes": 710915,
+    "audioUaSizeBytes": 1043056,
+    "audioEnSizeBytes": 936630
   },
   {
     "id": 19,
@@ -225,7 +279,10 @@
     "audioUrlUa": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_19_yeletsky_monastery_ua.m4a",
     "nameEn": "Yeletsky Monastery",
     "descriptionEn": "In 1060, Prince Svyatoslav with his faithful wife came to Yeletsky hill for hunting. On one of the tall fir trees he saw an icon of Blessed Virgin Mary and because of that fact the monastery was built there. Yeletsky means \"spruce\" as it derived from the word \"el\" which means\"a fir tree\".\nIn the 1990s on the southern side of the cathedral a burial vault of Chernihiv colonel Jacob Lizogub was added. In 1670 - 1675, a four-tiered bell tower with the height of 36 meters was erected and on the order of monastery the 160 kg in weight bell was made. There is a legend which is connected with the bell, when Polish army decided to devastate Chernihiv, the army could not move the bell from its place. In the ancient times the Bell tower was used as the defensive gates of the city, it was named Solemn.\nThere was a library of prince Svyatoslav Yaroslavich in the cathedral; it is one of the first known libraries of Kievan Rus. There were a lot of books not only of religious contests. To the present days the Miscellany of Svyatoslav dating from 1073, 1076 was preserved there. It is interesting that, according to the universal of D. Manyohrishny, the Yeletsky Monastery had its own transportation through the Desna, archive, 7 bakeries, 8 pot-house, 4 baths, 9 mills, gardens, groves and lakes. Moreover, the oldest building in the Left-bank Ukraine is located on the territory of the monastery. A monument of wooden residential architecture was erected in 1688 for St. Theodosius.\nThe Yeletsky Monastery hides many undiscovered legends. For example, there is a legend about Chernihiv Dracula. After Dunin-Borkovsky was buried in the cathedral, strange deaths occurred, people were found almost without a drop of blood. People saw a carriage leaving the monastery gate at midnight, and it drove to the Count's family castle. There count travelled around his lands and gave orders to his dead servants. After the rumor and sight of the carriage people opened the coffin and discovered that the count looked like alive, so people decided to drive a stake into his heart. After that deed attacks and disappearances stopped. It is interesting that in Yeletsky Monastery all the creepy scenes of Viy were supposed to be filmed, but filming crew could not reproduce everything. Despite the fact that the shooting took place in the monastery the bad curse passed over the place.\nOn the territory of the monastery the prince always existed, the court of legendary prince Chornу. On territory of the northern part of the monastery the tumulus is located, in addition the territorial interior is located in the dungeons, which are from the largest Assumption (Успенський) Cathedral and Peter and Paul Church.\n",
-    "audioUrlEn": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_19_yeletsky_monastery_en.m4a"
+    "audioUrlEn": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_19_yeletsky_monastery_en.m4a",
+    "imageSizeBytes": 2342222,
+    "audioUaSizeBytes": 2951963,
+    "audioEnSizeBytes": 3280273
   },
   {
     "id": 20,
@@ -237,7 +294,10 @@
     "audioUrlUa": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_20_the_black_tomb_mound_ua.m4a",
     "nameEn": "The Black Tomb Mound",
     "descriptionEn": "The Black Tomb Mound is located in Chernihiv near Yeletskyi Monster. The mound is one of the largest among ancient Kievan Rus monuments dating back to the 10th century. It is well preserved till our days. One of the most widespread legends of the city says that Prince Black, who was the founder of the city, was buried in this mound and the city was named in his honor.\nThe size of the mound is really impressive: the diameter is 40 m, the circumference is 125 m, the height which is still preserved is 11m. In ancient times it was surrounded by a moat up to 7 m wide. The mound was investigated by the famous archaeologist, who was a Chernihiv citizen, Samokvasov in 1872-73.\nA man and a woman were buried in the mound. The burial was carried out according to the cremation ceremony.\nThe man and the woman were laid down full of ample military equipment. Next to the warrior man there were different pieces of weapon, namely, two swords, a saber, a spear, a saddle with stirrups, fragments of a chain mail, a helmet, arrowheads, and there was a shield with a conper band at his feet. Next to the weapon there was an iron vessel with ram's bones and a bronze brazier with coal. Two saddled horses were laid at the feet. Besides, 10 sickles were found by the legs of a woman. Numerous ornaments, belt tips, gold and silver ingots were found at the place where the dead were lying. Scientists were excited with the view of the remains of molten jewelry in the fire, a bronze vessel, keys, locks, axes and chisels.",
-    "audioUrlEn": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_20_the_black_tomb_mound_en.m4a"
+    "audioUrlEn": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_20_the_black_tomb_mound_en.m4a",
+    "imageSizeBytes": 1033267,
+    "audioUaSizeBytes": 1707610,
+    "audioEnSizeBytes": 1768082
   },
   {
     "id": 21,
@@ -249,7 +309,10 @@
     "audioUrlUa": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_21_the_mansion_of_ostapenko_ua.m4a",
     "nameEn": "The mansion of Ostapenko",
     "descriptionEn": "The two-storey mansion was built in 1906. The owner of the house was an Honorary citizen of Chernihiv Hrihorii Kuzmich Ostapenko. He was quite an extraordinary (even in these anxious times) person. The Colonel, a participant in the Russian-Japanese War (he participated in the defense of the Port Arthur). It is also said that Hrihorii Ostapenko was an adjutant in one of the Admirals of the Pacific Squadron. Upon resignation the naval officer settled in Chernihiv but could not forget the sea. It was from his nostalgia that an unusual house was born.\nThis building is commonly called a ship-house. Nowadays there is a regional association \"Enlightenment\" on the ground floor and the gallery \"Steep Stairs\" is located on the second floor. The gallery was named after the successful realization of the dreams of Hrihorii Ostapenko who built his house closely resembling a warship. On the balcony, there were handrails with metal doors through which guests were invited to enter. The naval captain stepped out onto the deck, opened the door and threw down a real storm ladder. To descend from the second to the first floor, it was necessary to go through a narrow spiral staircase, like the one on a real ship.",
-    "audioUrlEn": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_21_the_mansion_of_ostapenko_en.m4a"
+    "audioUrlEn": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_21_the_mansion_of_ostapenko_en.m4a",
+    "imageSizeBytes": 2422974,
+    "audioUaSizeBytes": 1429890,
+    "audioEnSizeBytes": 1371937
   },
   {
     "id": 22,
@@ -261,7 +324,10 @@
     "audioUrlUa": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_22_the_estate_of_rackiewicz_ua.m4a",
     "nameEn": "The estate of Rackiewicz",
     "descriptionEn": "The original building was erected at the turn of the nineteenth and twentieth centuries in a secessionist style that originated in Vienna in 1897. This style is characterized by the presence of many rounded and curved decor details that are associated with the curves of the female body. At the end of the XX beginning of the XXI century the building was reconstructed for the needs of public association of the enterprises of the Chernihiv Regional Chamber of Commerce and Industry. As a result of the restructuring, the house has a lower roof, not typical to its early version style of the whole structure. The appearance of the facades has been preserved.",
-    "audioUrlEn": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_22_the_estate_of_rackiewicz_en.m4a"
+    "audioUrlEn": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_22_the_estate_of_rackiewicz_en.m4a",
+    "imageSizeBytes": 6254209,
+    "audioUaSizeBytes": 757023,
+    "audioEnSizeBytes": 688968
   },
   {
     "id": 23,
@@ -273,7 +339,10 @@
     "audioUrlUa": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_23_chernihiv_voskresenska_church_ua.m4a",
     "nameEn": "Voskresenska church",
     "descriptionEn": "The stone building was built in 1772–1775 on the territory of the city cemetery by the initiative and at the expense of the landowner Catherine Borkowska. According to the plan of the patron, the church had to have a separate bell tower, where St. Gregory church would have been equipped in the lower tower. Voskresenska church was built in late Baroque style, but with a very noticeable influence of classicism. The shape and decoration of the monument reminds of the buildings of the Ukrainian architect Ivan Grigorovich-Barsky.\nIn 1917 Voskresenska church was closed and the road was laid through its yard, due to which the temple was separated from its bell tower. At the same time, the building does not have any significant alterations.\nAmong all temples in Chernihiv Voskresenska church was the only place where regular worship services were held even during the Second World War, up to the 1970s. By the way, during those times Voskresenska church was the cathedral temple of Chernihiv diocese. Major restoration works of the church were held on the occasion of the 1000th anniversary of the baptism of Kyivan Rus (the baptism itself dates from 988). Unfortunately, the ancient interior design has not been preserved of the Voskresenska church.",
-    "audioUrlEn": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_23_chernihiv_voskresenska_church_en.m4a"
+    "audioUrlEn": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_23_chernihiv_voskresenska_church_en.m4a",
+    "imageSizeBytes": 1367670,
+    "audioUaSizeBytes": 1491089,
+    "audioEnSizeBytes": 1476088
   },
   {
     "id": 24,
@@ -285,7 +354,10 @@
     "audioUrlUa": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_24_the_chernihiv_city_council_ua.m4a",
     "nameEn": "The Chernihiv City Council",
     "descriptionEn": "The Chernihiv City Council is located in a historic city center in an ancient building. The building itself is a former home of the Chernihiv branch of the State Bank. The city council building was built in Chernihiv at the intersection of Alexander and Magistratskaya streets near the Theater Square at the end of the 18th century. In 1875 the first city public bank was opened here in the city. On September 1, 1895, a little further down Alexander Street, the exchequer Department of the State Bank was placed in a house owned by Markels. However, the house was not appropriate to the requirements of the financial institution, so in the early XX century the construction of a special room began.\nIn 1908, the construction was completed. A brick two-story with full basement floor, G-shaped structure was made in the style of neoclassicism. In the rectangular pediment in the niches four sculptural vases are placed. The rigidity of rectangular windows is offset by decorative stucco on the walls. The building is shaded; its color scheme is made in light gray and white tones.",
-    "audioUrlEn": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_24_the_chernihiv_city_council_en.m4a"
+    "audioUrlEn": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_24_the_chernihiv_city_council_en.m4a",
+    "imageSizeBytes": 8140328,
+    "audioUaSizeBytes": 1315648,
+    "audioEnSizeBytes": 1263813
   },
   {
     "id": 25,
@@ -297,7 +369,10 @@
     "audioUrlUa": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_25_the_free_fire_company_ua.m4a",
     "nameEn": "The Free Fire Company",
     "descriptionEn": "In 1841, the Free Fire Company which was organized on the initiative of the City Council came to the aid the police fire brigade. The firefighter, in turn, received financial assistance from the Fire Insurance Company, which was opened in 1885. In 1893, the building of the Free Fire Company was built nearby the Red Bridge in front of the second police station. It had its own volunteer fire brigade, a private yard and cart. The team consisted of a captain with a salary of 500 rubles per year, an assistant (324 rubles), 128 firefighters who received from 216 to 240 rubles.\nSoonely, the city was built up, fires increased, and there was a need to build a new placement. Engineer D. Afnasiev drafted up the project and estimates. For the construction of an area of three hundred square fathoms a loan was provided. So, eventually, the building of the fire company grew on the outskirts of the former Alexander Square. It consisted of two buildings and a fire bilge, which supposed to be used as a water tower afterwards. The first corps was single-storeyed and contained a stable of 11 horses. There were two halls for firefighting. The second building consisted of two floors. The first one contained a signal bedroom for employees, a dining room, a kitchen and a bath. In 1941 the building was burned down and rebuilt after the war. Until 1987 it was used as the Regional Printing House.",
-    "audioUrlEn": null
+    "audioUrlEn": null,
+    "imageSizeBytes": 1498338,
+    "audioUaSizeBytes": 2100962,
+    "audioEnSizeBytes": null
   },
   {
     "id": 26,
@@ -309,7 +384,10 @@
     "audioUrlUa": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_26_the_physical_therapies_institute_ua.m4a",
     "nameEn": "The Physical Therapies Institute",
     "descriptionEn": "Originally, there was a four-year school in the building of Institute. The building was erected in 1912 under the project of engineer-architect Ivan Yakubovich. But over some period of time, the school was closed. Approximately in the same time, a wave of tuberculosis diseases rolled around the city and city doctors together with city council representatives decided to create a space to combat the scourge and to treat it. That is why was created a separate specialized department in the building of the former school with the help of an active doctor R. Karaev.\nBuilding is very beautiful, its facade is built in ukrainiian style and there is a lot of stucco and ornament on it. For example, cornices with rosette garlands that looks like sunflowers. The facade is very contrastive because the building is white with red details this is associated with embroidery on towels. The pediments were built in Baroque style, and on the second floor there are six-sided windows that are traditional for Ukrainian huts and wooden church forms. The room was well lit because there were 17 windows on each floor.",
-    "audioUrlEn": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_26_the_physical_therapies_institute_en.m4a"
+    "audioUrlEn": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_26_the_physical_therapies_institute_en.m4a",
+    "imageSizeBytes": 1532239,
+    "audioUaSizeBytes": 1286991,
+    "audioEnSizeBytes": 1291335
   },
   {
     "id": 27,
@@ -321,7 +399,10 @@
     "audioUrlUa": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_27_the_chernihiv_public_library_ua.m4a",
     "nameEn": "The Chernihiv Public Library",
     "descriptionEn": "The Chernihiv Public Library was opened on March 15 (28) 1877 on the basis of the Statute approved by the Minister of Internal Affairs on February 9 of the same year.\nThe library was founded by the efforts of a group of democratically minded intellectuals of the city of Chernihiv. Among its sponsors are the names known far beyond the city, namely, Tyshynsky, Sophia and Alexander Rusovy, Chervinsky, Borsuk, Karpinsky, Konstantinovich Miloradovich, Varzar, Rashkevsky and others.\nBy 1877 this building served a different purpose. It previously housed the Chernihiv branch of the Noble and Peasant Land Bank.\nThe design of the building was created by the talented master Von-Satguin and it was brought to life by the famous architect Afnasiev in 1910–1913. The architectural monument has two floors, a tall three-tiered tower, decorated with a tent top. The stone building is modern and it is reminiscent of a European castle. The building is different because of a combination of colorful majolica, the basement and granite stable. The hexagonal windows and the triangular balcony on the second floor are unusual. During the erection the Ukrainian artistic traditions were used. Today the building of the former land bank is one of Chernihiv's most beautiful monuments where you can see not only the original architecture but also the rare book collections.",
-    "audioUrlEn": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_27_the_chernihiv_public_library_en.m4a"
+    "audioUrlEn": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_27_the_chernihiv_public_library_en.m4a",
+    "imageSizeBytes": 5089394,
+    "audioUaSizeBytes": 1662772,
+    "audioEnSizeBytes": 1674123
   },
   {
     "id": 28,
@@ -333,7 +414,10 @@
     "audioUrlUa": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_28_regional_territorial_administration_ua.m4a",
     "nameEn": "Provincial Zemstvo Board",
     "descriptionEn": "The building of the Regional Territorial Administration is an active part of local self-government. The building was erected in the end of the XVIII-beginning of the XIX century. According to the documents dating from 1864 Government and Administrative district were divided into Regional and District Services. Those administrations were chosen at assembly on the period of three years. It was common when assembly was formed with the group of leaders, mostly representatives of the nobility and the local bourgeoisie. The Chernihiv Regional Territorial Administration solved different economic, demesnial property, cultural and educational issues which belonged to its district council.\nIn the building of the Regional Territorial Administration writers Mykhailo Kotsyubynsky, Vladimir Samyilenko, and Boris Grinchenko were working for many years.",
-    "audioUrlEn": null
+    "audioUrlEn": null,
+    "imageSizeBytes": 869144,
+    "audioUaSizeBytes": 1029335,
+    "audioEnSizeBytes": null
   },
   {
     "id": 29,
@@ -345,7 +429,10 @@
     "audioUrlUa": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_29_krasna_square_ua.m4a",
     "nameEn": "Krasna Square",
     "descriptionEn": "Krasna Square is a large square located in the city center. In ancient times this territory was located outside the city and it was called the Pyatnitskaya Field. That is reason Paraskeva Pyatnitskaya Temple got its name. This place served as a market place. At the beginning of the 19th century Red Square was moved to the center and changed its name for Bazaar because a market with columns and rows of trade shops was built on its territory. It means that the destination of this area had not been changing for centuries.\nIt should also be noted that the name of the square does not come from red color. Red Square received its name because of its unprecedented beauty.\nThe trade rows were dismantled only in the 1930s, then a paving of red and yellow clinker was laid on the square, and a square was broken near Pyatnytska Church. In 1959 on the square the Taras Shevchenko Chernihiv Regional Academic Ukrainian Music and Drama Theater was opened on the square.\n",
-    "audioUrlEn": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_29_krasna_square_en.m4a"
+    "audioUrlEn": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_29_krasna_square_en.m4a",
+    "imageSizeBytes": 219431,
+    "audioUaSizeBytes": 1137104,
+    "audioEnSizeBytes": 720383
   },
   {
     "id": 30,
@@ -357,7 +444,10 @@
     "audioUrlUa": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_30_chernihiv_regional_ukrainian_musical_and_drama_theater_named_after_taras_shevchenko_ua.m4a",
     "nameEn": "Chernihiv Regional Ukrainian Musical and Drama Theater named after Taras Shevchenko",
     "descriptionEn": "The history of the foundation of the theater begins in 1926. Then in Yelisavetgrad, now the city is called Kropyvnytskyi, a mobile working-peasant theater named after Taras Shevchenko was created. A famous actor and director Leonid Predslavich headed the theater.\nIn 1933 the troupe in full composition was sent to Chernihiv where in 1934 the theater became a stationary one and was named Chernihiv Regional Ukrainian Musical and Drama Theater named after Taras Shevchenko. In 2001 it received its academic status for the 75th anniversary of the theater and for its outstanding creative achievements. Now the theater continues its activities. The stage regularly presents comedies, dramas and tragedies of Ukrainian and world classics, premieres, and it tours other cities and appears abroad.",
-    "audioUrlEn": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_30_chernihiv_regional_ukrainian_musical_and_drama_theater_named_after_taras_shevchenko_en.m4a"
+    "audioUrlEn": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_30_chernihiv_regional_ukrainian_musical_and_drama_theater_named_after_taras_shevchenko_en.m4a",
+    "imageSizeBytes": 12952265,
+    "audioUaSizeBytes": 1044192,
+    "audioEnSizeBytes": 1014320
   },
   {
     "id": 31,
@@ -369,7 +459,10 @@
     "audioUrlUa": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_31_piatnytska_church_ua.m4a",
     "nameEn": "Piatnytska Church",
     "descriptionEn": "Piatnytska Church is an Orthodox church located in Chernihiv. It was built in the late XII - early XIII centuries. At the Chernihiv post near the bazar at the cost of merchants. The Church was named after St. Paraskeva Piatnytsia who was the patron saint of commerce and merchants. There is an assumption that the church was built at the expense of Prince Igor - the hero of \"the Lay of Igor's Warfare\". According to another version, the church was built at the expense of rich merchants.\nAfter the war the church was completely destroyed but in the ashes and stones, Petro Baranovsky saw the Cossack Baroque monument. He began the restoration works and completed them only in 1962. An interesting fact is to fulfill the works they made special bricks of six types according to the samples and the size of the ancient plinth, the samples of which were found during excavations.",
-    "audioUrlEn": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_31_piatnytska_church_en.m4a"
+    "audioUrlEn": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_31_piatnytska_church_en.m4a",
+    "imageSizeBytes": 3324265,
+    "audioUaSizeBytes": 998891,
+    "audioEnSizeBytes": 981684
   },
   {
     "id": 32,
@@ -381,7 +474,10 @@
     "audioUrlUa": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_32_the_chernihiv_regional_philarmonic_ua.m4a",
     "nameEn": "The Chernihiv Regional Philharmonic",
     "descriptionEn": "The Chernihiv Regional Philharmonic was established in 1944. The Philharmonic received a stationary room with a capacity of 612 seats in 1964. It is the former home of the Mykolaiv Diocesan Brotherhood. The complex includes a chapel, which was built in 1870 to honor Alexander Nevsky.\nThe building was burned down in August 1941 during the Nazi bombing and rebuilt in the postwar years with a third floor superstructure above the former chapel. It is a good example of neo-Russian architecture dating back to the turn of the nineteenth and twentieth centuries.\nDuring the existence of the Philharmonic, classical music and folklore were constantly heard, various genres were performed, lectures and work with children continued. In 2000 the Regional Philharmonic Center was established on the basis of the Philharmonic, the choir named after Dmitry Bortniansky, the brass band and the folk music ensemble \"Harmonika\". Today the Philharmonic Symphony Orchestra, the Dmitry Bortniansky Chamber Choir, the Academic Folk Choir, the Siversky Kleynody Song and Dance Ensemble, the Ostap Veresay Bandur Choir, the Brass Band and the Concert Performers work here.",
-    "audioUrlEn": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_32_the_chernihiv_regional_philarmonic_en.m4a"
+    "audioUrlEn": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_32_the_chernihiv_regional_philarmonic_en.m4a",
+    "imageSizeBytes": 3514405,
+    "audioUaSizeBytes": 1591159,
+    "audioEnSizeBytes": 1292718
   },
   {
     "id": 33,
@@ -393,7 +489,10 @@
     "audioUrlUa": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_33_st_catherines_church_ua.m4a",
     "nameEn": "St. Catherine's Church",
     "descriptionEn": "It was built in 1705 - 1710 in the Ukrainian Baroque style to honor the victory of the Cossacks over the Turkish troops during the second Azov march. St. Catherine Church is a monument devoted to courage, heroism, valour and glory of Chernihiv warriors. St. Catherine Church resides Dubno-Chernihiv icon of the God Mother. The icon is surrounded by a special reverence because it is the myrrh-streaming icon that healed many diseases.\nNot only the icon in the church has healing powers, but also the relics of the holy rector of the temple known as St. Mercury. When his grave was dug, all the eyewitnesses could smell the roses aroma. Nowadays many people are praying to the holy Abbot to be healed from incurable diseases.\nThe main feature of the interior is the opening space of the upper part of the church. Due to the fact that there are no choirs and horizontal lines on the facades of the church structure, it looks amazing. The interior is created with the help of the new domes and vaults design as they were inherent in timber constructions. In the post-war period, archaeologists unearthed plinth and other fragments of the ancient times near the church. These findings gave some reasons to believe that the church was built on the site where the temple of the Kyiv Rus was located. Some researchers think it could be a Catholic church. After all, in the decoration of the church some elements of the Western Europe gothic cathedrals can be seen. For example, you can find colored stained-glass windows inside St. Catherine church. According to the assumptions and thoughts about the history of the church, it can be argued that the building was erected by the representatives of the Catholic adherents who ran from persecutions in the Czech Republic.",
-    "audioUrlEn": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_33_st_catherines_church_en.m4a"
+    "audioUrlEn": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_33_st_catherines_church_en.m4a",
+    "imageSizeBytes": 759693,
+    "audioUaSizeBytes": 1971099,
+    "audioEnSizeBytes": 1428117
   },
   {
     "id": 34,
@@ -405,7 +504,10 @@
     "audioUrlUa": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_34_chernihiv_cannons_ua.m4a",
     "nameEn": "Chernihiv Cannons",
     "descriptionEn": "Twelve cannons on the territory of Val (the Rampart) have been Chernihiv architectural landmark for centuries. They were installed at the end of the 19th century in memory of Chernihiv military glory. Another legend says that the emperor Peter I gave the cannons as a present to the residents in order to appreciate Chernihiv Cossacks who courageously struggled in the Great Northern War with Sweden. But there is no reliable evidence to prove the story. Moreover, some cannons are much older than the Great Northern War (1700-1721). Once, the famous poet Taras Shevchenko, being on a visit in Chernihiv, wrote in the local newspaper “Chernigov Gubernia Vedomosti”: “In the citadel of the ancient fortress, there are three large fortress cannons without gun carriages. They are of pretty rough work, without ornaments and inscriptions. Furthermore, the time they are dated back to is also unknown.”\nIn 1896, the cannons were installed on the gun carriages, intentionally brought from Arsenal Kyiv. Soon, eight more cannons were brought. During the 20th century the cannons were placed in different parts of Val, on the alley, behind the house of the Regimental Chancellery. Finally, before 1941, all twelve cannons were put on the places where they are today.\nOne famous city joke of nowadays says that the ladies who want to refuse the proposal, make the appointment at the 13-th cannon. The unlucky gentlemen come and wander a lot looking for the cannon which doesn't actually exist.",
-    "audioUrlEn": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_34_chernihiv_cannons_en.m4a"
+    "audioUrlEn": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_34_chernihiv_cannons_en.m4a",
+    "imageSizeBytes": 3407553,
+    "audioUaSizeBytes": 1868651,
+    "audioEnSizeBytes": 1707800
   },
   {
     "id": 35,
@@ -417,7 +519,10 @@
     "audioUrlUa": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_35_taras_shevchenko_monument_ua.m4a",
     "nameEn": "Taras Shevchenko Monument",
     "descriptionEn": "Taras Shevchenko Monument in Chernihiv is the monument to the great Kobzar, outstanding Ukrainian poet and philosopher Taras Shevchenko.\nThe son of the Ukrainian people, the ingenious master of the artistic word was on a visit to Chernihiv more than once. First, Taras Shevchenko visited Chernihiv in 1843 and later he stayed with his friend, artist Andrii Lyzohub several more times.\nThe uniqueness of the monument is in the choice of the original artistic concept and its sophisticated implementation. It is as if by accident Taras Hryhorovych settled down comfortably to have a rest on a park bench and got deep in thought looking into the distance. Shevchenko holds the folder with pictures in his left hand. There is also a carelessly thrown cloak next to him.\nVolodymyr Chepelyk, the sculptor of the monument, National Artist of Ukraine, managed to convey in bronze famous Shevchenko's muse and his subtle charisma. The monument pedestal is made of granite while the figure of the poet is made of bronze. The height of the whole monument is 4 meters. The sculptural composition is mounted on a massive rectangular pedestal and is supplemented by a black plaque autographed by the great Kobzar.\nBy the way, this is the first monument in Ukraine where Taras Shevchenko is portrayed as a young man in his early thirties, full of energy and creteive plans.\nThe monument was erected on Val (the Rampart) in Chernihiv in 1992.",
-    "audioUrlEn": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_35_taras_shevchenko_monument_en.m4a"
+    "audioUrlEn": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_35_taras_shevchenko_monument_en.m4a",
+    "imageSizeBytes": 3106616,
+    "audioUaSizeBytes": 1525990,
+    "audioEnSizeBytes": 1648597
   },
   {
     "id": 36,
@@ -429,7 +534,10 @@
     "audioUrlUa": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_36_val_the_rampart_ua.m4a",
     "nameEn": "Val (The Rampart)",
     "descriptionEn": "Chernihiv Val (the Rampart), also known as dytynets, is one of the oldest areas in the city. Its history dates back to ancient times. In Kyivan Rus, the largest fortified central part of the ancient cities was called \"dytynets\". There were the residences of knyaz (prince), his court and druzhina (prince's army) as well as the manors of boyars and the high clergy. The rest of the urban population (artisans, merchants) lived outside the fortress in a so called outer city.\nThe place for the Chernihiv fortress was chosen to advantage. So, Chernihiv dytynets sits proudly above on the high cape, where the Desna and the Stryzhen rivers merge together. In the 10-th century, the stronghold with an earth mound and a wooden fence was constructed there. Because its territory was considered safe for building cathedrals, churches, houses of princes and feudal lords.\nIn autumn 1239, the Tatars devastated Chernihiv principality. Dytynets fortifications were destroyed. Later on, the fortress was renewed and existed till the end of the 18th century as the heart of the city, its administrative and spiritual center.\nAt the beginning of the 19th century, the remains of earth fortifications, walls and ditches were totally deconstructed to reshape the territory and make recreation and administration area. As time went, the territory of modern Val used to be differently renamed: Dytynets, Fortress, the First Fortress of Cherkasy, Vzvalia and others.\nThe modern name Val appeared at the end of the 18th - beginning of the 19th centuries when the fortress had already failed. Despite numerous reconstructions and enaming during two hundred years, the name \"Val\" still remains. Now Val is the city park named after Mykhailo Kotsiubynskyi. It is situated on the hill and outlooks the city cramped with architectural monuments.\nVal is a part of National Architectural and Historical Reserve “Chernihiv Ancient”.",
-    "audioUrlEn": null
+    "audioUrlEn": null,
+    "imageSizeBytes": 1807636,
+    "audioUaSizeBytes": 2239530,
+    "audioEnSizeBytes": null
   },
   {
     "id": 37,
@@ -441,7 +549,10 @@
     "audioUrlUa": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_37_lyzohubs_mansion_regimental_chancellery_ivan_mazepas_building_ua.m4a",
     "nameEn": "Lyzohub`s Mansion Regimental Chancellery Ivan Mazepas Building",
     "descriptionEn": "The Chernihiv Regimental Chancellery (the mansion of Yakiv Lyzohub, the building of Hetman Ivan Mazepa) is a monument of civil architecture dated back to the 17th century. It was built in the 1690s on the territory of the Chernihiv dytynets.\nThe famous Chernihiv colonel, the remarkable commander, and the representative of an ancient Cossack family, Yakiv Lyzohub had the mansion constructed for his family. After colonel's death, his wife had to sell the house to Hetman Ivan Mazepa due to the difficult financial situation. Later on, Hetman Ivan Mazepa fell into disgrace with Peter the Great, so his mansion was confiscated and became the property of Chernihiv Cossack regiment.\nThe regimental chancellery was located there since the 18th century. That is why one of its names is the building of Regimental Chancellery. Then the building became the city property and finally – the State Archives.\nThe first restoration was done in the 10th century. The furnaces was deconstructed and the ornaments was destroyed. However, the original planning traditional for noble Cossack dwelling remained. Wide walls divide the building into two parts - female and male, each of which has two rooms. The Chernihiv Regimental Chancellery is built in the Ukrainian Baroque style. It has two floors (the second one is the attic) and a large basement.\nCurrently, the holdings of the V. V. Tarnovskyi Chernihiv Regional Historical Museum are housed here.\nThere is a legend that the house has the deep catacomb where Hetman Ivan Mazepa hid his barrels full of gold. There he secretly met with his young goddaughter Motria. Motria was the daughter of Vasyl Kochubei – Cossack general pysar (scribe). Motria's mother cursed her daughter for her sinful affairs with her godfather. Since that time her restless soul has been wandering around. And yearly, on the 28th of September Dormition of Mother Goth, Motria appears at Mazepa's house and asks to bless her cursed soul with orthodox cross, promising to reveal the mystery of Hetman's treasures.",
-    "audioUrlEn": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_37_lyzohubs_mansion_regimental_chancellery_ivan_mazepas_building_en.m4a"
+    "audioUrlEn": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_37_lyzohubs_mansion_regimental_chancellery_ivan_mazepas_building_en.m4a",
+    "imageSizeBytes": 188209,
+    "audioUaSizeBytes": 2355712,
+    "audioEnSizeBytes": 2341873
   },
   {
     "id": 38,
@@ -453,7 +564,10 @@
     "audioUrlUa": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_38_the_transfiguration_cathedral_ua.m4a",
     "nameEn": "The Transfiguration Cathedral",
     "descriptionEn": "The Transfiguration Cathedral (Spassky) in Chernihiv is the most ancient Orthodox church of the Ancient Rus period. Its architecture combines the scheme of the Byzantine cross-domed temples with the elements of the Romanesque basilica.\nThe Cathedral of the Transfiguration was founded by the first Prince of Chernihiv, Mstyslav Volodymyrovych the Brave in the period between 1030–1036, according to the assumption of historians.\n'Mstyslav went hunting. He became ill and died. And they laid him in the church of the Holy Savior because during his time the walls were erected to the height of the horseman who was sitting on the horse with a raised hand”.\nThe construction of the cathedral was completed by the son of Yaroslav the Wise who headed Chernihiv principality after the death of Mstyslav. During the Tatar-Mongol invasion in 1239 the cathedral was destroyed; the arches and the baths were partially destroyed.\nThe plan of the Transfiguration Cathedral is a rectangle divided by two rows of three pillars; it was completed in the east by three semicircular apses with five baths. The facades of the temple were decorated with numerous brick ornaments. The central part of the western facade is enchased with a large meander belt (geometric pattern in the form of a broken line).\nThe patterns and ornaments of brick.\nInside the cathedral, the lateral branches of the spatial cross are separated from the bribed space with the help of triforia which rest below on the marble columns.",
-    "audioUrlEn": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_38_the_transfiguration_cathedral_en.m4a"
+    "audioUrlEn": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_38_the_transfiguration_cathedral_en.m4a",
+    "imageSizeBytes": 10471663,
+    "audioUaSizeBytes": 1793606,
+    "audioEnSizeBytes": 1782481
   },
   {
     "id": 39,
@@ -465,7 +579,10 @@
     "audioUrlUa": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_39_the_cathedral_of_sts_borys_and_hlib_ua.m4a",
     "nameEn": "The Cathedral Of Sts Borys And Hlib",
     "descriptionEn": "The cathedral was built in the princely period as the family church and burial place for the Davidovych princely family. The temple is dedicated to the first Old Russian saints Borys and Hlib. It is a fantastic modern single dome architecture school of the 12th century.\nThe Cathedral of Sts Borys and Hlib is a cross-domed single-storey building which has three naves, three apses, and six columns. The cathedral is 25 metres height is topped with one dome. The facades of the church are featured with semi-columns from top to bottom and have arched bands of ceramic decorations and a series of small decorative niches. Capitals of columns on the facades of the buildings have been restored from plexiglass whereas the fragments of the original ones are being exhibited in the cathedral museum. The interior was decorated with light coloured frescoes and a colourful ceramic tile and majolica floor.\nIt is said that before the construction of the Cathedral of Sts Borys and Hlib stands on the earlier structure of the 11th century. Excavations have revealed the lower part of the walls and the ancient foundation under the cathedral. Scientists presume that the ancient structure was either a two-chamber princely house or a more ancient church or cathedral.\nOnce the old brick structure were pulled down, a large gap emerged during the excavation on the Sobor Square there accompanied with underground structure. It was a big circular brick accommodation divided into four circle-shaped brick bulkheads which run from one chamber to various directions. One of them led to the Cathedral of Spas, another one - to the Yelets hill. During the excavation they discovered the coins and the tiles of the early 18th century have been recorded. This is an evidence that the structure was erected at the end of the 17th-beging of the 18th centuries.\nUnfortunately, the Cathedral of Sts Borys and Hlib was destroyed and rebuilt time and again. Every time its hitecture took on new features. It was badly damaged during the World War II.\nWell-known architect Mykola Kholostenko who designed the project and reconstructed the cathedral of Sts Borys and Hlib in its original form brought new life to the temple in the post-war period.\nAs a result of the reconstruction, the walls, vaults and the main entrance`s portals almost did not survive. Only inside the soule of the north wall above the portal are barely visible.\nThe cathedral was originally cross-shaped in a burial place, so deep niche-arcasolia for the tombs were made in the northern and southern walls. Historians assume that unfortunately, did not survive (their remains are brought from the surface of the soil). Ornaments made in the \"beast style\" and \"floral style.\" The so-called \"animal style\" where floral designs are combined into fairy lace with fantastic beasts, lions, and griffins is characteristic of the cathedral. A griffin is a typical feature of Chernihiv architecture of the 12th-early 13th century. The floor is decorated with encrusted mosaic of slate plates and ceramic multi-colour tiles.\nThere is an exciting story related to the cathedral restoration when silver icon of Semargl was found on the facade of the cathedral. The Chernihiv eagle But Semergl has become a since old times the Chernihiv Eagle is a Chernihiv coat of arms. In the \"Tale of Bygone Years\" as a pagan god. An idol of Semargl was placed in the pantheon of gods with an askol and a griffin. The wall painting of the God of Semargl. He created the pantheon with Perun as a chief god, as an askol and a griffin and Semargl. Since the archaeologists discovered the icon of Semergl on the found on the ground they interpreted it as the idol. Semargl character to use in their coat of arms, souvenir cards, postcards, souvenir posters etc.\nThe original carved white stone capitals, the Cathedral of Sts Borys and Hlib inside. These gates are the core element of the iconostasis made by the order of hetman Ivan Mazepa.\nIt is said that the excavations on the territory of Sts Borys and Hlib monastery the rich but noble people of Ukraine, for instance, Lazar Baranovych, the bishop of the Chernihiv diocese Sts Borys and Hlib was a religious and political leader and literary genius, professor and rector of Kyiv Mohyla College (1650s). The archbishop of Chernihiv (since 1657), author of the collection of poetry, cantata and spiritual songs.\nAt present, the Cathedral of Sts Borys and Hlib is a part of the National architectural and historical reserve \"Chernihiv ancient.\" The exposition, reflecting the history of this church complex, and the permanent exhibition \"Chernihiv Architecture and Crafts of the 11th-13th centuries\" are being held there. In addition, the Cathedral of Sts Borys and Hlib is a platform for concerts of spiritual music.",
-    "audioUrlEn": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_39_the_cathedral_of_sts_borys_and_hlib_en.m4a"
+    "audioUrlEn": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_39_the_cathedral_of_sts_borys_and_hlib_en.m4a",
+    "imageSizeBytes": 6860223,
+    "audioUaSizeBytes": 5340935,
+    "audioEnSizeBytes": 3449098
   },
   {
     "id": 40,
@@ -477,7 +594,10 @@
     "audioUrlUa": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_40_the_chernihiv_college_ua.m4a",
     "nameEn": "The Chernihiv College",
     "descriptionEn": "The Chernihiv College is the oldest higher education institution in the Left-Bank Ukraine. It was established in 1700. The College was the part of the Cathedral of Sts Borys and Hlib, known as the residence of Chernihiv archbishops. The institution was founded by archbishops and writers Lazar Baranovych and loan Maksymovych and generously supported by Hetman Ivan Mazepa. Due to his financial support, the original baroque bell tower appeared on the complex. It was decorated with fanciful ornament which was a great reminiscent of a carpet from afar. The Chernihiv college was established on the model of the Kyiv Mohyla Academy and Catholic Jesuit colleges and followed their traditions.\nInitially, the college had four classes and employed only two teachers. Then three teachers worked there. Teachers taught students grammar, syntax in Old Slavic, Latin and Polish, poetics and rhetoric. Later on, a philosophical class was started where students were taught German, French and Greek as well as geometry, and arithmetic. College training was based on democratic principles. Every gifted child regardless of the parents` social background and budget could attend college. Consequently, children of Cossacks, clergy, burghers went to college. At that time there were about two hundred students in the Chernihiv college.\nThere are a lot of remarkable personalities among the graduates and teachers of the institution such as H. Kononovych, the author of the first New Testament translation in Chernihiv, I. Lopaiskyi, the first head of the Theological Orthodox mission in China and P. Zahorskyi, the founder of the first anatomical school in the Russian Empire. The College was maintained at the expense of the monastery, the Chernihiv Eparchy and charitable donations. The more students attended college, the more new training facilities were being built along the monastery walls.\nAlmost 90 years after its opening, the college was reorganized into a theological seminary with the Museum of Church Antiquities. Between 1799 and 1806, the college as well as other monastery buildings, except for the central part of the bell tower, was taken apart. At the end of the 19th century a Moscow-style porch was added to the west side of the bell tower. The decorative design of the building, especially the southern facade facing the Cathedral of Sts Borys and Hlib is extremely rich, different in shape, half columns, niches and a columnar frieze form a patterned lush carpet. The upper part of the bell tower is decorated with ceramic icons “Our Lady of the Sign” and “The Saviour Non-spontaneous (The Image of the Saviour Not Made by Human Hands)”.\nDuring World War II, the building was destroyed and burnt out. Later on, the building itself and its architectural decor were restored.\nNowadays, the Chernihiv College hosts the administration of the National Architectural and Historical Reserve “Chernihiv Ancient”. The permanent exhibitions of Ukrainian icon painting as well as the expositions dedicated to Chernihiv college, such as the educational class of the 18th century are being held here. Another permanent exhibition “Chernihiv and its residents 100 years ago” offers visitors the opportunity to explore the history of everyday life in Chernihiv at the beginning of the 20th century.",
-    "audioUrlEn": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_40_the_chernihiv_college_en.m4a"
+    "audioUrlEn": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_40_the_chernihiv_college_en.m4a",
+    "imageSizeBytes": 919479,
+    "audioUaSizeBytes": 3619731,
+    "audioEnSizeBytes": 2713061
   },
   {
     "id": 41,
@@ -489,7 +609,10 @@
     "audioUrlUa": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_41_the_house_of_archbishop_state_archives_of_chernihiv_oblast_ua.m4a",
     "nameEn": "The House Of Archbishop. State Archives Of Chernihiv Oblast",
     "descriptionEn": "The House of Archbishop was erected in 1780 next to the former Sts Borys and Hlib monastery in the most ancient part of Chernihiv dytynets.\nThe house of Archbishop is a vivid example of late classicism. The facade is decorated with a six-column portico with capitals of the Ionic order and a strict and solemn triangular pediment over it.\nFirst, the main entrance was located on the western side of the structure, closer to the nearby monastery. A sloping wide ramp led to the central room on the second floor.\nAt the beginning of the 19th century, the building was reconstructed: the ramp was pulled down, the entrance door on the second floor became a window. Now, the entrance was on the eastern side. The portico supported by six columns was built on the porch.\nFor a period of time, the building placed the printing house and the editorial office of the newspaper “Chernigov Gubernia Vedomosti”. Writers and ethnographer Oleksandr Shishatskyi-Illich, historian Oleksandr Lazarevskyi, poet Leonid Hlibov, folklorist and ethnographer Opanas Markevych, historian Mykola Markevych and others published their research works there.\nAfter revolutionary events of 1917-1921, various institutions were located in the building, including the military base. During World War II after German air strikes, the bomb hit the building and it burnt out inside. The building was restored after the war period.\nNowadays, the House of Archbishop hosts State Archives of Chernihiv Oblast. More than eight thousand units of database, one million four hundred and fifty thousand cases have been stored in the depositories since the 17th century.\nDocuments of the former Chernihiv civilian governor, provincial government, police, court and prosecutor's offices, financial and tax authorities, banks and educational institutions are of great value. Unique universals of Hetmans of Ukraine and Chernihiv colonels, letters of Taras Shevchenko and Myhailo Hlinka, autographs of many prominent figures, writers, and scholars are being kept here. Scientific reference library is rich with about ten thousand books. Books of the 17-19th centuries, editions printed in Cyrillic, latin, civil script, the collection of church songs, written with hooks are among the most precious publications. Both the Bible of the Red Book of the Holy Wr of the Old Testament and the New Testaments and the Core of the Chronological History of the World from the Beginning of the World to the Death of Catherine II\" are unique in artistic and polygraphic execution.",
-    "audioUrlEn": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_41_the_house_of_archbishop_state_archives_of_chernihiv_oblast_en.m4a"
+    "audioUrlEn": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_41_the_house_of_archbishop_state_archives_of_chernihiv_oblast_en.m4a",
+    "imageSizeBytes": 2882691,
+    "audioUaSizeBytes": 2600952,
+    "audioEnSizeBytes": 2514335
   },
   {
     "id": 42,
@@ -501,7 +624,10 @@
     "audioUrlUa": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_42_v_v_tarnovskyi_chernihiv_regionsl_historical_museum_ua.m4a",
     "nameEn": "V.V. Tarnovskyi Chernihiv Regionsl Historical Museum",
     "descriptionEn": "V.V. Tarnovskyi Chernihiv Regional Historical Museum is one of the oldest museums in Ukraine. It is also a scientific and cultural centre of the city, region and country.\nThe museum is named after a well-known Ukrainian public and cultural figure, collector, philanthropist, Vasyl Tarnovskyi, Junior. It was his unique collection of the Ukrainian antiquities that became the basis for the museum.\nThe museum was founded on November 14th (26th), 1896 when the official opening of the Chernihiv Giberia Academic Archival Commission with its Historical Museum took place.\nIn 1923, five Chernihiv museums merged into the Chernihiv State Museum. In 1925, the building of the former Peasants' Land Bank (nowadays, it is a library named after V. H. Korolenko). After the Chernihiv region formation, in 1933 the museum moved to Chernihiv dytynets – Val (the Rampart) – and was housed in the building of the gymnasium for boys, where it is located now.\nThe museum staff have been replenishing the museum collections since its foundation. Unfortunately, there were some losses. Some exhibits did not return from the evacuation during World War II but remained on the territory of the present-day Russian Federation. Some exhibits simply disappeared.\nToday, the museum has about two hundred and thirty thousand exponents of material and spiritual culture. The exhibition is located in 16 halls and represents different periods of Chernihiv history. There is a rich collection of archeological exhibits that covers the most ancient period of the region history. The collection of Old Rus jewellery as well as the treasures of the Chernihiv-type hryvnias, and the weapons of the 10th-13th centuries also draw visitors' attention. The priceless collection of the 7th-18th centuries based on Cossacks antiquities presented by V.V. Tarnovskyi, Cossacks insignia (kleinody), military equipment, clothes, church and household utensils is of exceptional scientific and cultural value. There are a lot of museum holdings related to the names of state, religious and cultural leaders such as Ya. Ostrianytsia, Hetmans B. Khmelnytskyi, I. Mazepa, and P. Polubotko, I. Skoropadskyi, D. Apostol etc.\nAmong the historical values, the museum houses nearly three hundred Cyrillic ancient books, including two Ostroh Bibles and fifty three Gospels in precious frames.",
-    "audioUrlEn": null
+    "audioUrlEn": null,
+    "imageSizeBytes": 494679,
+    "audioUaSizeBytes": 2465946,
+    "audioEnSizeBytes": null
   },
   {
     "id": 43,
@@ -513,7 +639,10 @@
     "audioUrlUa": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_43_chernihiv_gymnasium_for_girls_ua.m4a",
     "nameEn": "Gymnasium for girls",
     "descriptionEn": "The former gymnasium for girls is located on the territory of the ancient Val (the Rampart). H.P. Halahan Chernihiv Regional Art Museum is housed in the gymnasium now.\nAccording to historical documents, the gymnasium was founded in 1865 as a first grade school in Chernihiv. The educational institution was in a detached house. In the first school year, there were 4 classes and only 92 students. But by the end of the school year, the number of school girls increased up to 106 people. The number of girls wishing to receive secondary education increased fast. So, in the following two years, the 5th and 6th grades were started. Moreover, in the central part of the city (on the Rampart) a new wooden single-story educational building was constructed. After, in 1869 the 7th preparatory class was started. At that time, there were 214 school girls from various representatives of the society. When the resolution \"Regulations on Gymnasiums\" came into force, the educational institution got the status \"gymnasium\" (1870). In 1915, it had eight profile and two preparatory classes and 846 school girls from Chernihiv and other parts of gubernia studied there. Mainly the Humanities were taught there; such as: foreign languages, music, dancing, singing, needlework, etiquette and manners.\nIn 1899, the gymnasium for girls got the new two-storey building which was constructed on the territory of former fortress. It is interesting to know that originally the main facade was from the opposite side. The wide staircase with banisters led to the massive front door. Now, this part of the building is in the inner yard of the museum.\nIn 1919, the labour school was established in the gymnasium for girls. In different periods of time it was named after V. Lenin and V. Korolenko. Later, secondary school #2 was placed there. The school had been there till 1983 when it moved to a new building. Since then the Art Museum has been housed there.",
-    "audioUrlEn": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_43_chernihiv_gymnasium_for_girls_en.m4a"
+    "audioUrlEn": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_43_chernihiv_gymnasium_for_girls_en.m4a",
+    "imageSizeBytes": 5840811,
+    "audioUaSizeBytes": 2540562,
+    "audioEnSizeBytes": 2188656
   },
   {
     "id": 44,
@@ -525,7 +654,10 @@
     "audioUrlUa": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_44_st_michael_and_fyodor_church_ua.m4a",
     "nameEn": "St. Michael and Fyodor Church",
     "descriptionEn": "St. Michael and Fyodor Church is located on the banks of the river Styzhen on the territory of the former estate of Ukrainian hetman and Chernihiv Cossack Colonel Pavlo Polubotok.\nHistorical sources tell us the martyrdom of of Chernihiv prince Michael Vsevolodovich and his boyar, Fyodor who refused to accept the demand and fulfill Khan Baty's humiliating ritual of worshiping the fire and Mongol idols. After the refusal both of them were brutally tortured and executed in 1246. The remains of Prince Michael and Boyar Fyodor were buried in the Chernihiv Savior Transfiguration Cathedral. Soon the martyrs were canonized, and in 1572 the relics of the holy comforters were moved to Moscow where they are today.\nThe construction of the only temple in Ukraine to honor the holy martyrs Michael and Fyodor was started in 1801. Due to financial difficulties it lasted for five years and the consecration of the temple took place only in 1808. From that period the church had changed its appearance: from classical with elements of baroque to Byzantine style.\nUntil 1918 a seminary was located near the church, one of the oldest educational institutions of Chernihiv at that time. Now there are military hospital buildings. In Soviet times, the temple did not operate. Only in the early 90's of the twentieth century the building was returned to the faithful of the Ukrainian Orthodox Church of the Kiev Patriarchate.\nIn 2008, the Nizhyn master Koshel created a new iconostasis in golden white colors for the temple. Nizhyn wood carving experts embarked on his plan for more than four years. The iconostasis was made of linden and painted in gold and white. Instead of traditional images of bread spikelets and grapes, this iconostasis reproduces a young branch of oak and viburnum. It is also adorned with voluminous, almost sculptural images of the Blessed Virgin Mary, angels and the Savior on the Cross.\nToday, St. Michael and Fyodor Church is a single-domed stone temple painted in yellow and white colors.",
-    "audioUrlEn": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_44_st_michael_and_fyodor_church_en.m4a"
+    "audioUrlEn": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_44_st_michael_and_fyodor_church_en.m4a",
+    "imageSizeBytes": 1385838,
+    "audioUaSizeBytes": 2479387,
+    "audioEnSizeBytes": 2429872
   },
   {
     "id": 45,
@@ -537,7 +669,10 @@
     "audioUrlUa": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_45_krasnyi_bridge_ua.m4a",
     "nameEn": "Krasnyi Bridge",
     "descriptionEn": "Krasnyi Bridge is a concrete bridge across the Strizhen River in Chernihiv. This bridge was built by residents of Chernihiv across the river Strizhen at the end of XVIII century. At that time it was made of wood and was called due to its beauty - Red. Only 100 years later, in 1914, outdated wooden structures were replaced with concrete. In 1964, the first trolleybuses had appeared in Chernihiv and the bridge had to be rebuilt and since then this bridge looks like exactly as the citizens were used to see it in the XX-th centiry.\nIt is better to visit Red Bridge, when it is dark outside, because under the bridge there are red lights, which illuminate it. As a result of such illumination the mysterious atmosphere is in the air. It is the time when visitors can listen to one old legend about the city.\nIt is said that during the days of Hetman Ivan Mazepa, a vampire lived in Chernihiv, who scared the whole neighborhood. Immediately after the death of a famous Count Vasyl Dunin-Barkovsky, people started to disappear in the city; many were found dead with signs of anemia. After the count's death, many residents saw him riding his horse-drawn carriage across the city crossing Red Bridge. According to legend the locals went to Archbishop John Maximovich.\nThe Archbishop stepped onto Red Bridge to meet the carriage blocking his path with a cross. Some people say the bridge immediately collapsed and the carriage disappeared into the river. Others, however, recount that the entire retinue of the count turned into a gray cloud. In general, if you want to know much more about Chernihiv Dracula you certainly need to pay a visit to Red Bridge.",
-    "audioUrlEn": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_45_krasnyi_bridge_en.m4a"
+    "audioUrlEn": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_45_krasnyi_bridge_en.m4a",
+    "imageSizeBytes": 4013801,
+    "audioUaSizeBytes": 1843419,
+    "audioEnSizeBytes": 1758709
   },
   {
     "id": 46,
@@ -549,7 +684,10 @@
     "audioUrlUa": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_46_the_museum_of_military_history_ua.m4a",
     "nameEn": "The Museum Of Military History",
     "descriptionEn": "It is located near the city park of culture and rest. Museum was established in 1985. Main collection counts exhibits from different periods of time. The main parts of those exhibits characterize Chernihiv's participation in the Second World War, both types as on the fronts and in the guerrilla groups. In addition to that there are exhibits of the period of Chernihiv defense in 1941, its liberation from the German invaders, also it tells us about the fate of Ostarbeitern and prisoners of camps, about the participation of our countrymen in the so-called local armed conflicts in Korea, Vietnam, Egypt, Afghanistan, etc. Also there is some information about the formation of the Armed Forces of independent Ukraine, their participation in international peacekeeping operations under the auspices of the UN, on the elimination of the Chernobyl accident and its consequences. There you can find documents, photos, weapons, awards, military equipment, and some personal stuff, working tools, which was used by different types of troops, also there are books, paintings and graphical works. In total there are nearly eleven thousands of exhibits.\nThe museum is divided into 3 sectors (3 floors), the first focused on ancient archeological finds and the Second World War, on the second floor exposition is continued, the third floor is devoted not only to military operations, but also to some achievements in space.\nAccording to the staff, visitors are mostly interested in the expositions of weapons of different eras, letters from the front and from the German captivity, the camel of a photojournalist from the newspaper \"For Our Victory\" by Andronov, crushed by a shards; awards of Korotkov, commander of a regional guerrilla unit; materials twice by the Hero of the Soviet Union, a long-range aviation pilot bombed in August 1941 by Berlin Molodchy, Vlasenko - an UN peacekeeper who died near Sarajevo and so on.",
-    "audioUrlEn": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_46_the_museum_of_military_history_en.m4a"
+    "audioUrlEn": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_46_the_museum_of_military_history_en.m4a",
+    "imageSizeBytes": 51530,
+    "audioUaSizeBytes": 2077298,
+    "audioEnSizeBytes": 2203011
   },
   {
     "id": 47,
@@ -561,7 +699,10 @@
     "audioUrlUa": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_47_the_city_garden_central_park_of_culture_and_recreation_ua.m4a",
     "nameEn": "The City Garden (Central Park of Culture and Recreation)",
     "descriptionEn": "The City Garden (Central Park of Culture and Recreation) is a park complex that is a garden of art for Chernihiv residents. Chernihiv city Park is a traditional place for many Chernihiv residents and visitors. The Lesya Ukrainka Central Culture and Recreation Park is located on the bank of the River Desna, on Shevchenko Street, near Yuri Gagarin Stadium.\nFestivals and fairs, sports orienteering and athletic competitions and other sport events take place in the Central Park. There are several fountains on the cential alley. The territory of the park includes Summer Theater, attractions, 5D cinema, a Ferris wheel, a shooting range, slot machines, summer cafes, the house of mirrors, electric cars, a table tennis court, children's playgrounds and other recreation zones. Roller skates and bicycles can also be rented in the park, of course, it depends on the season. Kids can ride a pony; adults can ride horses or take part in permanent horseback riding. You can organize any concert event in the summer theater or on the venues by renting audio equipment and lighting installations. Among the park's green spaces there are centuries-old oaks and many other trees.",
-    "audioUrlEn": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_47_the_city_garden_central_park_of_culture_and_recreation_en.m4a"
+    "audioUrlEn": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_47_the_city_garden_central_park_of_culture_and_recreation_en.m4a",
+    "imageSizeBytes": 4883830,
+    "audioUaSizeBytes": 1362758,
+    "audioEnSizeBytes": 1821397
   },
   {
     "id": 48,
@@ -573,7 +714,10 @@
     "audioUrlUa": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_48_house_of_tarnowski_ua.m4a",
     "nameEn": "House Of Tarnowski",
     "descriptionEn": "Tarnowski House is a historic building in city of Chernihiv, which is known as the premises of the Chernihiv Regional Youth Library. A stone-built, one-story, T-shaped house is close in architecture to historicism. At the end of the XIX century there was an orphan craft school in this building and it was located on the outskirts of Chernihiv.\nFollowing the acceptance by the Chernihiv Authority according to the testament of Tarnovsky (junior) in 1897 his unique collection - works of art, manuscripts, including Taras Shevchenko works (758 items were dedicated to Taras Shevchenko, including about 30 autographs of works, 285 drawings and paintings), the authority raised the question of their storage location for the heritage. That is why Chernihiv Museum of Ukrainian Antiquities of Tarnovsky was opened in the building in 1902. Later, in 1980, Chernihiv Regional Library for Youth was opened in this building.",
-    "audioUrlEn": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_48_house_of_tarnowski_en.m4a"
+    "audioUrlEn": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_48_house_of_tarnowski_en.m4a",
+    "imageSizeBytes": 2725873,
+    "audioUaSizeBytes": 1148755,
+    "audioEnSizeBytes": 1139203
   },
   {
     "id": 49,
@@ -585,7 +729,10 @@
     "audioUrlUa": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_49_the_manor_house_of_grigory_glibov_ua.m4a",
     "nameEn": "The manor house of Grigory Glibov",
     "descriptionEn": "The most romantic building in Chernihiv is the Grigory Glibov manor house. Glibov's estate was built in the late nineteenth century in the village of Bobrovytsya which is now a part of Chernihiv. The central structure of the manor was a two-storey house built in the Gothic style. This lock has a complex of the asymmetrical layout that is matched by a flexible facade. Under the house there is a deep and solid basement. Along with the house there is a gardener's house, a carriage house, an ice house preserved.\nThere is a legend that Glibov, while he was in Paris, met a woman whom he liked very much and invited to Chernihiv, but she refused. To attract her, he built this house which looked like a small chivalric castle. But that's not everything he did! Hryhoriy Glibov himself was also an interesting personality.\nHryhoriy Glibov originated from the nobles of Chernihiv province. He was born in 1856. The writer graduated from the University of St. Vladimir where he obtained a law degree, then he studied at the Moscow Agricultural Academy. Since 1890 G. Glibov was Chernihiv county leader of the nobility, in 1907 he was elected to the III State Duma from landowners of Chernihiv province and was a member until 1911. Over time Glibov emigrated abroad where he died in 1932.\nIn Soviet times, there was a medical sanatorium in the house for some time. And since 1961 it has housed the Research Institute of Agricultural Microbiology.",
-    "audioUrlEn": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_49_the_manor_house_of_grigory_glibov_en.m4a"
+    "audioUrlEn": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_49_the_manor_house_of_grigory_glibov_en.m4a",
+    "imageSizeBytes": 6234486,
+    "audioUaSizeBytes": 1853023,
+    "audioEnSizeBytes": 1660395
   },
   {
     "id": 50,
@@ -597,6 +744,9 @@
     "audioUrlUa": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_50_yalivshchyna_four_thousand_years_of_history_ua.m4a",
     "nameEn": "Yalivshchyna four thousand years of history",
     "descriptionEn": "Yalivshchyna Forest Park is located in the northern part of Chernihiv. This is a unique complex located on the banks of the river Stryzhen, a right tributary of the Desna River. Today its total length is 32 km; the width of the channel varies around 4-5 m. The formation of the river began about 11 thousand years ago during the melting of the Wurm Glacier. The width of the riverbed during the melting period was almost 1 km. This is clearly visible on the routes, one of which is located in Yalivshchyna, and the other at the intersection of the modern Myru Avenue and Kozatska Street. The first information about the river Stryzhen dates back to ancient times, when it appeared on the pages of the Laurentian Codex in 1078. Opanas Shafonskyi wrote back in 1785: \"Stryzhen River goes out of this county near the village of Osniaky and passed through the city of Chernihiv only 26 miles, under it fell into the river Desna on the right side.\" At the same time, Andrii Tarasov recalls that the water in the Stryzhen River at the end of the 18th century was clean and drinkable; it was used by the townspeople.\nToday's forest park is located on the eastern terrace of the river Stryzhen, its height ranges from 22 to 25 m. It has quite steep slopes, abundantly cut by hollows and ravines. Particular, this place people liked more than 4000 years ago. For the first time archeological works in Yalivshchyna started in the late 1940s. There were expeditions by Davyd Blifeld and Oleksandr Popko. In 1971, Motrona Popudrenko investigated the findings in Yalivshchyna, and in 1976 Gerard Kuznetsov conducted the research here. In the 1980s, Volodymyr Kovalenko made excavations in Yalivshchyna and the position near it, excavation was continued by Victor Sokhatskyi, Ihor Ihnatenko, Hennadii Zharov and Viacheslav Skorokhod.\nThe first settlers of Yalivshchyna were representatives of the Middle Dnieper archeological culture of the Bronze Age, which existed in the second millennium BC. This culture occupies the territory of the middle and upper Dnieper and the Desna Rivers basin within Ukraine and Belarus. It is represented by burial findings in mounds necropolises, earthen cemeteries and open settlements. The settlement of this culture was discovered in Yalivshchyna. These settlers left behind the remains of the inhabitants of the raft structures, which had a rectangular shape and consisted of two rooms, the floor and walls were made of clay, the ceiling was covered with straw or reeds. There were household holes around these dwellings. Representatives of this culture were able to process bronze and make weapons and tools from it. However, mostly, they used stone goods as tools. Their pottery was also interesting: pots and amphorae with a round bottom. These housewares were decorated with various ornaments of shaded triangles, vertical columns, and horizontal stripes. Such ornaments completely covered the entire pot. The Middle Dnieper settlement had close ties with other tribes living in Ukraine, the findings of imported jewelry and tools are evidences of such cooperation.\nIn the Early Iron Age, I millennium BC representatives of the so-called Milograd culture appeared on the territory of the modern Yalivshchyna forest park. This culture has existed for more than 700 years and is often identified with the Nevrian tribes that were mentioned by Herodotus in his “History”. The carriers of this culture are considered to be representatives of the proto-Baltic ethnic group, from which modern Lithuanians and Latvians later descended. Probably they were the ones who built the first fortifications in the form of an embankment and a moat in the Yalivshchyna on the bank of the Stryzhen River. Such fortifications were extremely necessary, because from the south there was always a danger of attacks by Scythian nomads. The fact that the Scythians attacked the Mylograd settlements in the Yalivshchyna can be evidenced by the findings of arrowheads during the research of the shaft of the already mentioned settlement.\nThe people of Mylohrad settlement built their houses of wood or raft, sometimes coating them with clay. The house was heated by an open fire. Along with housing, farm buildings such as sheds, barns for cattle, and pits for storing grain were also found. Their pottery differed in variety of shape, but they were mostly spherical pots decorated on the bottleneck with rows of holes, \"pearls\" or punctures pressed by the fingers. Most tools were made of stone: hoes, graters, grinding wheels, etc. People of Mylohrad also mastered the vertical loom very well; the findings of clay weights, often ornamented were found. Metal products, despite the fact that it was already the Iron Age, were very, very a few. They are mostly represented by hoes, sickles, knives, needles, awls. Sometimes weapons are found during archeological excavations: darts and arrows, the latter usually resembling Scythian ones. In general, the Mylograd culture, stand out from the background of other early Iron Age cultures surrounding it, looked rather modest, especially in comparison with the royal Scythians. Modern researchers believe that the representatives of this culture had a direct influence on the formation of the first Slavic tribes.\nRepresentatives of the so-called Zarubynetska archeological culture replace the Mylohrad culture. Archaeological excavations in Yalivshchyna have revealed several of their settlements. They were usually small to two hectares. Their homes were presented in the form of half-dugouts, heated by an open hearth. In addition, numerous household holes up to 1 meter deep, open-air hearths and other farm buildings were found in the settlements. At the same time such settlement could operate from 5 to 20 inhabitants, which were located in compact groups. The utensils of the Zarubynetska culture were molded: polished and rough. Polished - used for dining purposes, it was used for cooking and serving food. Rough dishes were used as snags for food storage. Today it is not known exactly which ethnic group the representatives of the Zarubynetska culture belonged to. Some researchers consider them Proto-Slavs, others - Germans; others agree that it was a symbiosis or synthesis of tribes of the local population with representatives of migrants from Central Europe. The latter opinion is prevalent in science today. However, it is on the basis of the Zarubynetska culture that the archeological cultures of the early Slavs will later begin to form. And this is clearly seen in the example of settlements in Yalivshchyna. On the site of the settlements of the Zarubynetska culture on the terraces of the Stryzhen River, settlements of the Kyiv archeological culture appeared which is already directly related by scientists to the early Slavic population of Ukraine. In the north of Yalivshchyna was a huge settlement with an area of more than 20 hectares, which was named Oleksandrivka, 1. During the 1980s and 1990s, Chernihiv archaeologist Oleksandr Shekun studied several dozen residential buildings and several hundred household pits on the territory of this settlement. The houses were represented by semi-dugout dwellings ranging in size from 3.5 to 5 meters, sunk by 1 m into the ground, with walls of log or frame structures. An open hearth was also located in the central part of the house, but at this time stoves made of clay began to appear on these territories.\nAmong the innovations of the time, it can be noted that people began to dig the first wells, instead of meeting their drinking water needs from the Stryzhen River. One of these wells was investigated by archaeologists in the north of Yalivshchyna. Utensils of Kyiv culture remain stucco were also divided into kitchen or dining room and coarse, which was used to store grain and for water. Representatives of this culture contacted with other Polissia tribes of the forest zone. At an early stage, connections were established with the Cherniakhivska culture of the 5th century, which is identified with the Gothic tribes. Kolochynska culture, which is genetically close to it and is directly associated with the Slavs, comes from the Kyiv culture. Kolochyn culture in the VIII century was changed by Volyntsivska. Today, researchers agree that this is the culture of the Slavs, who came under the influence of the Khazar Khaganate and became the ancestors of the chronicle tribe \"Siver\" or \"Sivero\", better known to us as Siveriany. Probably, at the turn of the VIII and IX centuries, the Volyntsivske settlement in Yalivshchyna perished during a cataclysm or an unknown to us war. Subsequent settlements have already appeared here during the formation of the Old Rus state.\nFrom the Xth century settlement on the site of the modern Val (Rampart) in Chernihiv began to grow rapidly and turned into a city. Around the same time, settlements appeared in Yalivshchyna that directly formed the Chernihiv agglomeration. Thus, on the site of abandoned fortifications of the Mylograd culture an ancient Rus fortress appeared. Unfortunately, the chronicle did not preserve for us name of this fortified settlement. The first mention of the settlement in Yalivshchyna dating from the 17th century, but at that time it had been abandoned and no fortifications existed there except the old rampart. In the work of Opanas Shafonskyi \"Topographical description of the Chernihiv governorship\" it is stated: Here in the grove there is a remnant of a small earthen rampart. It is possible that it was inhabited by the former Polish owner of the grove, nicknamed Elotskyi, or it is possible that it was made in the former plagues, where the inhabitants took refuge from it.\nThe settlement in Yalivshchyna is located on a 23-meter cape of the left-bank terrace of the Stryzhen River, on the north-western outskirts of Chernihiv. The settlement itself is small, only 40x40 m. From the north and south it is cut off from the plateau by two deep ravines. On the western side, the settlement is bounded by the edge of the terrace, which overlooks the Stryzhen River and today is actively destroyed on this side. Even 70 years ago, according to the measurements of archaeologists of that time, the settlement was at least 2-3 m longer. The settlement has artificial fortifications only on the eastern side. They are represented by a much silted moat 10 m wide and 1.5 m deep, as well as a shaft 2.5 m high and 8 m wide. Traces of escarpment can also be seen on the north side, as this edge of the settlement was more sloping. The entrance to the site was located in the north-eastern part of the settlement on a small ramp up to 5 m wide, or directly from an unfortified post. In ancient times, there was a wooden wall on the top of the earthen rampart, from which the defenders of the fortress could conduct archery at the attackers. There was probably a wooden tower above the entrance gate.\nTo the north and east of the settlement there is a large unfortified settlement-post, limited by deep ravines from the south and west, which formed a significant obstacle for the attackers. The total area of the unfortified post and adjacent settlements of the XII century reaches more than 3 hectares. Such an area could accommodate at least three dozen yards, which means that the population of the community near the settlement was at least 150 people, which is a significant figure for the Middle Ages.\nIt is probable that the settlement in Yalivshchyna in ancient times served as someone's country residence or boyar mansions. Such country yards are often mentioned in chronicles. In general, they were identical to the castles of medieval European knights, which were also mostly wooden until the 13th century. The local feudal lord did not need powerful fortifications to live in, and a small fortified area was enough for his house, stables, and storage facilities. All his people and servants lived in premises, under the walls of the yard. This military-economic complex provided itself with everything it needed, and what was missing could be easily obtained from Chernihiv, which was very close. Another function of the fortifications in Yalivshchyna was the castle-yard, it controlled navigation on the Stryzhen River from the northern rural areas of modern villages Osnyaki, Roishche, which at that time provided Chernihiv with agricultural products, and the fortress acted as an outpost on the outskirts of Chernihiv from the north. We can assume that the yard in Yalivshchyna perished, like most similar fortifications, during the turbulent events of the middle - second half of the thirteenth century. However, the history of the settlement of Yalivshchyna did not end there.\nAlthough settlements on this territory was revived from time to time in the XIV-XVII centuries, but the fortifications no longer played such a role as in ancient times.\nThus, during archeological excavations in the summer of 1994, a half-dugout dwelling dating to the authors of excavations of the 14th – 16th centuries was discovered on the terrace of the Stryzhen River in Yalivshchyna. This indicates that some part of the population during the turbulent times of Mongol rule still survived and continued to live in the tract. It was probably a small hamlet consisting of one or more estates. However, it destroyed in fire in the late XV - or early XVI century. Probably, this happened during one of the military operations that took place during this period between the Grand Duchy of Lithuania and Muscovy in the struggle for Chernihiv.\nIn 1618 Chernihiv became part of the United Commonwealth of the Kingdom of Poland and the Grand Duchy of Lithuania. And again after that the settlement of Yalivshchyna took place. According to the documents of the XVIII century Yalivshchyna belonged to Yalovytskyi, from whose surname the modern name of the whole tract comes. Yalivshchyna also belonged to him or his descendants at the end of the 17th century as evidenced by one of the universals of Hetman Demian Ihnatovych from 1672. During this period, there was a water mill, which means that the first dam appeared and formed an artificial pond. In the XVIII century Yalivshchyna became the property of the Lyzohub family and in the second half of the same century there was a hamlet of a fellow assessor Vasyl Lyzohub, a representative of the famous Cossack-officer family. In 1816, Mykhailo Markov mentioned: Yalivshchyna, in particular, he noted: The name came from the nobleman Jalockii, who lived here in the Polish possession.\" Or in 1852, Mykola Markevich wrote: \"Yashchovshchyna, from Mr. Yalotskyi, who lived there during the Polish rule; by the name of the neighboring dam, barren, that is, abolished, the original name of this grove has been preserved in people minds; I spoke of it as a folk festival, and mentioning the former barrage on the Stryzhen River; it is a grove on the north side near the city.\". The same can be seen from the description of the XIX century. Yalivshchyna was traditionally used by Chernihiv residents as a place for festive festivities and everyday walks.\nFrom the middle of the XIX century began active afforestation of the tract. There were planted heather, pine, spruce, cherry and various bushes. One of the initiators of such activities was a member of the City Duma Vasyl Nerod. In 1880, a pumping station for artesian wells was built in Yalivshchyna, which filled the city's water supply system.\nIn the postwar period, Yalivshchyna was organized into a city botanical garden. However, its territory was constantly declining, and by the 1980s it had become a forest reserve. Only in 2014 the tract was reorganized into a regional landscape park.",
-    "audioUrlEn": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_50_yalivshchyna_four_thousand_years_of_history_en.m4a"
+    "audioUrlEn": "https://raw.githubusercontent.com/OXyglosa/city-guide-assets/main/audio/location_50_yalivshchyna_four_thousand_years_of_history_en.m4a",
+    "imageSizeBytes": 6252804,
+    "audioUaSizeBytes": 18799932,
+    "audioEnSizeBytes": 18495587
   }
 ]
